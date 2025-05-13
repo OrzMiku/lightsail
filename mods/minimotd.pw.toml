@@ -1,0 +1,13 @@
+name = "MiniMOTD"
+filename = "minimotd-fabric-mc1.21.4-2.1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/16vhQOQN/versions/FheuITlu/minimotd-fabric-mc1.21.4-2.1.5.jar"
+hash-format = "sha512"
+hash = "191b610aaed1f474ab70c01eba633210e75060891fe308f4106215622de34015a2dc21713b46f550cd613550c4d86412126d693db7cd7dad254abc132e30c62b"
+
+[update]
+[update.modrinth]
+mod-id = "16vhQOQN"
+version = "FheuITlu"

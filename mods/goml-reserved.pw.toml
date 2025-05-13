@@ -1,0 +1,13 @@
+name = "Get Off My Lawn ReServed"
+filename = "goml-1.15.0+1.21.4-rc3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/j5niDupl/versions/wyrT6ly9/goml-1.15.0%2B1.21.4-rc3.jar"
+hash-format = "sha512"
+hash = "6269f024c0090908b6bd2e32b8ec89b41ae811839963a62b40cced48cf2475460e8c6802de78d142515947d342db15af45d0e8c98ba18cf8f29b8cf810246e6d"
+
+[update]
+[update.modrinth]
+mod-id = "j5niDupl"
+version = "wyrT6ly9"

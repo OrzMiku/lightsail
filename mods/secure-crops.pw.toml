@@ -1,0 +1,13 @@
+name = "Secure Crops"
+filename = "securecrops-2.0.1+1.21.2-1.21.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G89SpEyJ/versions/wcE6iNib/securecrops-2.0.1%2B1.21.2-1.21.x.jar"
+hash-format = "sha512"
+hash = "8b4c46d2a758125f64fb4b9b433a47d433dfd64b17b1f8701fa770bcf208093bdbd909538c67a67bd2150fc854dd81a0a1a431077df26715a9ed7c17755e194c"
+
+[update]
+[update.modrinth]
+mod-id = "G89SpEyJ"
+version = "wcE6iNib"

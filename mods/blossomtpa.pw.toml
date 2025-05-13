@@ -1,0 +1,13 @@
+name = "BlossomTpa"
+filename = "blossom-tpa-2.2.8+1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y25EUH1s/versions/sZSeSrPu/blossom-tpa-2.2.8%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "298892563c4d884293c64d22bc8b951e9425a8030181f581d0f5fc92975619d0a6129cdaf52b54e0eaba6a5ace2b66ba348b7ec533a6f0192df05ed9a49bc8cd"
+
+[update]
+[update.modrinth]
+mod-id = "Y25EUH1s"
+version = "sZSeSrPu"

@@ -1,0 +1,13 @@
+name = "YUNG's Bridges"
+filename = "YungsBridges-1.21.4-Fabric-5.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/a8dqim8P/YungsBridges-1.21.4-Fabric-5.4.0.jar"
+hash-format = "sha512"
+hash = "85b4fa1ca22b057e68e4ff10081e5b9506f99a1339726d7147c3789863f02f21561ee921881999dbd8ed7c71988035574a6b742d883fd2dedc24214254c8d985"
+
+[update]
+[update.modrinth]
+mod-id = "Ht4BfYp6"
+version = "a8dqim8P"

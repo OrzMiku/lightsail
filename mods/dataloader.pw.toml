@@ -1,0 +1,13 @@
+name = "Data Loader"
+filename = "data-loader-1.1.6+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gEUERjxK/versions/Du7xlu89/data-loader-1.1.6%2B1.21.jar"
+hash-format = "sha512"
+hash = "c9cd09cb95325cf240d54e28f5ba239f16901c547d87203e2c020f3c7c1697926955c20167d53c0c1af91bcc45be7dcda94f38a8c23e6f40690b24feace020f3"
+
+[update]
+[update.modrinth]
+mod-id = "gEUERjxK"
+version = "Du7xlu89"
