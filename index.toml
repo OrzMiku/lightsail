@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "55cb0143330095f2132926ff85dd7264d627880e709bffea1bd1e03edc7eddbf"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "fde5b4407f35051b3c35e2bc04a71540a1ec21832de609c75f79ae24bb2d9f1d"
+metafile = true
