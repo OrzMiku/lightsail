@@ -57,11 +57,6 @@ hash = "b9799a838e2bf801ef403cd0d6d023cc01106d4d294df29b5671f901e3c61c28"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "a2821bc4d334cd4b50a5cb3a85932f3e715721cde054617c4b472359a92f7a00"
-metafile = true
-
-[[files]]
 file = "mods/blossomback.pw.toml"
 hash = "78a90446fc89ec9bc1d3020a48db02ad9be13ab5b90a262b0e72f8ba9446b227"
 metafile = true
@@ -405,3 +400,27 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "2a5edaa541050d7c7ea952778b48ce4fa1b16418b7f3ade7bf5b01173cd8e0bb"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "16d9b82889e1122793b70ed975e50c91c518835690f78c3e6768d15edf26c730"
+
+[[files]]
+file = "world/data/BlossomBack.deaths.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "world/data/BlossomBack.teleports.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "world/data/BlossomHomes.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "world/data/BlossomPVP.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "world/data/BlossomWarps.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
