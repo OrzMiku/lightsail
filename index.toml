@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "58da4ed50230d0423894325c4064de87182f2f4817e45fca2d3a37d1c6a289c8"
+
+[[files]]
+file = "README.md"
+hash = "4ab7acdbd61a46e598fa2fc6ee39f7a30a6af987fc95986b5e1ccc79d63dfbe4"
+
+[[files]]
 file = "config/DistantHorizons.toml"
-hash = "f833b7f6dde982cdc5aa240a9dff8cbf42115ba1547f2367a32f00915917e1ee"
+hash = "0b7cd1cca9da3a8e1107f625b3db75a6e6cdc2c5680ad09aa9ff0b48d6a1381e"
 
 [[files]]
 file = "config/MiniMOTD/main.conf"
@@ -113,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "8609a10886e3cc595b643bc2921adbba19f1003e47f8123430b1f5929d8b9e07"
+hash = "f19bc88e1af313774d14507b177c09b480599b7fbeb11105e2a07c3e23e592e0"
 metafile = true
 
 [[files]]
@@ -133,12 +141,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -323,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "3f77e1338349b8f019a11b67b8e4c84055d43fc0183ddd83c2fc5ac3cb3d6538"
+hash = "73a1ab71c83dc70873220e111445312f54f74b84db6c12ac32f6a26c7e6c9460"
 metafile = true
 
 [[files]]
@@ -403,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "16d9b82889e1122793b70ed975e50c91c518835690f78c3e6768d15edf26c730"
+hash = "742f483b66a234722ce8091d25773919fd31c52bc7076da7ee8f5af11d9f3b55"
 
 [[files]]
 file = "world/data/BlossomBack.deaths.json"

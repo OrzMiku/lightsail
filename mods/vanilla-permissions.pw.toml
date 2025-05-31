@@ -1,13 +1,13 @@
 name = "Vanilla Permissions"
-filename = "vanilla-permissions-0.2.4+1.21.3.jar"
+filename = "vanilla-permissions-0.2.9+1.21.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2.4%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/PYYDl95q/vanilla-permissions-0.2.9%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "6f182c3f976fb3a5e9a542094bc0fcf7a120aa55a32e5b0ed7c162034a24287ea1dbb5e5138c4af41c284900b4a05daca6b998c2d8c973e33188879832dcff55"
+hash = "ef65762de7cc0fd5f4e94268162d0dab65d32da833ea0a0df9683c46c1a26d3cc4e9fa73de0445080d1769ea1c17cf543425a03d54a887b84aed9f8d902913ff"
 
 [update]
 [update.modrinth]
 mod-id = "fdZkP5Bb"
-version = "7awQNHzw"
+version = "PYYDl95q"
