@@ -2,8 +2,7 @@ logs/
 .log
 
 # Luckperms
-**/luckperms/libs/
-**/luckperms/translations/repository/
+**/luckperms/
 
 # bStats
 **/bStats/
@@ -12,6 +11,7 @@ logs/
 survival/.fabric/
 survival/cache/
 survival/config/*
+survival/datapacks/
 survival/libraries/
 survival/versions/
 survival/world/*
