@@ -10,10 +10,16 @@ logs/
 # Fabric
 .fabric/
 cache/
-config/
+config/*
 datapacks/
 libraries/
 versions/
 world/
 eula.txt
 *.json
+
+# minimotd
+!config/MiniMOTD
+
+# distant horizons
+!config/DistantHorizons.toml
