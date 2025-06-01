@@ -13,3 +13,7 @@
 
 - 位于 `packs` 目录下的其他子文件夹（例如 `essentials`, `modifiers`, `QoLs`, `structures`, `terrains`）中包含的是模组文件（`.jar` 文件）。
 - 要安装这些模组，请将相应的 `.jar` 文件移动到 `mods` 文件夹中。
+
+## 资源包
+
+- 推荐玩家安装 [Sparkles](https://modrinth.com/resourcepack/sparkles) 资源包，以补全翻译。

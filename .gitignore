@@ -7,7 +7,7 @@ logs/
 # bStats
 **/bStats/
 
-# Fabric
+# Fabric Server
 .fabric/
 cache/
 config/*
@@ -17,6 +17,9 @@ versions/
 world/
 eula.txt
 *.json
+
+# Test Server
+test-server/
 
 # minimotd
 !config/MiniMOTD
