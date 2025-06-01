@@ -1,0 +1,13 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃     VelocityScoreboardAPI    ┃
+# ┃          Config File         ┃
+# ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+# ┃ This file is used to configure the VelocityScoreboardAPI plugin.
+# ┃ This plugin is intended to be used with Velocity player list plugins such as TAB or Velocitab,
+# ┃ and should be installed on your Velocity proxy server alongside one of those plugins.
+# ┗╸ GitHub: https://github.com/NEZNAMY/VelocityScoreboardAPI/
+
+# Whether scoreboard API events should be fired
+call_scoreboard_events: true
+# Whether to log invalid packets received from downstream servers
+print_invalid_downstream_packet_warnings: true

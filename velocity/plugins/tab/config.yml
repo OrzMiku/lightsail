@@ -1,0 +1,96 @@
+header-footer:
+  enabled: true
+  header:
+  - <gradient:blue:aqua>&m                                                </gradient>
+  - '%animation:servername_anim%'
+  - <gray>» %animation:welcome_anim% <gray>«</gray>
+  - '<gold>在线玩家: <white>%online%</white></gold>'
+  - ''
+  footer:
+  - ''
+  - '<green>延迟: <white>%ping% ms</white></green>'
+  - '<gray>内存占用: <white>%memory-used% MB / %memory-max% MB</white></gray>'
+  - <gradient:aqua:blue>&m                                                </gradient>
+  disable-condition: '%world%=disabledworld'
+tablist-name-formatting:
+  enabled: true
+  anti-override: true
+  disable-condition: '%world%=disabledworld'
+scoreboard-teams:
+  enabled: true
+  enable-collision: true
+  invisible-nametags: false
+  anti-override: true
+  sorting-types:
+  - PLACEHOLDER_A_TO_Z:%player%
+  case-sensitive-sorting: true
+  can-see-friendly-invisibles: false
+  disable-condition: '%world%=disabledworld'
+playerlist-objective:
+  enabled: true
+  value: '%ping%'
+  fancy-value: '<gray>延迟: <white>%ping% ms</white></gray>'
+  title: TAB
+  render-type: INTEGER
+  disable-condition: '%world%=disabledworld'
+belowname-objective:
+  enabled: false
+  fancy-value-default: NPC
+  fancy-value: '&c%health%'
+prevent-spectator-effect:
+  enabled: false
+bossbar:
+  enabled: false
+scoreboard:
+  enabled: true
+  toggle-command: /sb
+  remember-toggle-choice: false
+  hidden-by-default: false
+  use-numbers: true
+  static-number: 0
+  delay-on-join-milliseconds: 0
+  scoreboards:
+    default:
+      title: '%animation:servername_anim%'
+      lines:
+      - ''
+      - '<gold>在线: <white>%online%</white></gold>'
+      - '<green>延迟: <white>%ping% ms</white></green>'
+      - ''
+      - '%animation:welcome_anim%'
+layout:
+  enabled: false
+ping-spoof:
+  enabled: false
+placeholders:
+  date-format: yyyy年MM月dd日
+  time-format: '[HH:mm:ss]'
+  time-offset: 0
+  register-tab-expansion: false
+placeholder-refresh-intervals:
+  default-refresh-interval: 500
+  '%server_uptime%': 1000
+  '%server_tps_1_colored%': 1000
+  '%player_ping%': 1000
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- owner
+- admin
+- default
+debug: false
+mysql:
+  enabled: false
+proxy-support:
+  enabled: true
+  type: PLUGIN
+  plugin:
+    name: RedisBungee
+global-playerlist:
+  enabled: false
+  update-latency: false
+use-bukkit-permissions-manager: false
+use-online-uuid-in-tablist: true
+permission-refresh-interval: 1000
+compensate-for-packetevents-bug: false
+per-world-playerlist:
+  enabled: false
