@@ -1,0 +1,25 @@
+logs/
+.log
+
+# Luckperms
+**/luckperms/libs/
+**/luckperms/translations/repository/
+
+# bStats
+**/bStats/
+
+# Fabric
+survival/.fabric/
+survival/cache/
+survival/config/*
+survival/libraries/
+survival/versions/
+survival/world/*
+survival/eula.txt
+survival/*.json
+
+# Configuration files should not be ignored
+!survival/config/FabricProxy-Lite.toml
+
+# Velocity
+velocity/lang/
