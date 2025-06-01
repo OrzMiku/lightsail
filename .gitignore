@@ -8,18 +8,12 @@ logs/
 **/bStats/
 
 # Fabric
-survival/.fabric/
-survival/cache/
-survival/config/*
-survival/datapacks/
-survival/libraries/
-survival/versions/
-survival/world/*
-survival/eula.txt
-survival/*.json
-
-# Configuration files should not be ignored
-!survival/config/FabricProxy-Lite.toml
-
-# Velocity
-velocity/lang/
+.fabric/
+cache/
+config/
+datapacks/
+libraries/
+versions/
+world/
+eula.txt
+*.json
